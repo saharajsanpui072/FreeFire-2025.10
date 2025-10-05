@@ -1,8 +1,7 @@
 {
   "showDialog": true,
   "title": "🔐 SAHARAJ EXE LOGIN",
-  "description": "buy and contact \n WhatsApp +91 6289600365 \n
-  Don't try to waste time in any way..",
+  "description": "BUY WHATSAPP +91 6289600365",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
   "renewUrl": "https://wa.me/916289600365",
@@ -17,13 +16,13 @@
       "device_id": "abcdef9876543210",
       "username": "demo",
       "password": "demo123",
-      "expire_date": "2026-04-15"
+      "expire_date": "2025-04-15"
     },
     {
       "device_id": "testdevice11223344",
       "username": "user",
       "password": "pass",
-      "expire_date": "2026-06-01"
+      "expire_date": "2025-06-01"
     }
   ]
 }
